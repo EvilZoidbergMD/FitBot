@@ -5,17 +5,21 @@
 import sys
 import socket
 import string
+from settings import *
 
-host=raw_input('What server -> ')
-port=int(raw_input('What port -> '))
+if host == '':
+    host=raw_input('What server -> ')
+if port == 0:
+    port=int(raw_input('What port -> '))
+if chan == '':
+    chan = raw_input('What channel -> ')
+
 nick="FitBot"
 ident="fitbot"
 realname="PFB"
 readbuffer=""
-chan = raw_input('What channel -> ')
 
 print 'Starting...'
-
 
 fits = open('fits.txt', 'r')
 fit_list = []
@@ -70,16 +74,16 @@ while 1:
 
                     #Find fit of specified ship in the fits.txt file
                     for line in fit_list:
-                        if line[1:line.find(',')] == ship_name:
+                        if line[1:line.find(',')].lower() == ship_name.lower(): #Begin adding at first line of fit
                             adding = True
-                        elif line[0] == '[' and line[0:6] != '[Empty':
+                        elif line[0] == '[' and line[0:6] != '[Empty': #End adding at first line of next fit
                             adding = False
                         if adding:
                             lines.append(line)
 
                 #Respond to command with no args
                 if len(lines) == 0:
-                    irc.send('PRIVMSG ' + chan + ' :Please include a ship name (!fit Wolf for example) \r\n')
+                    irc.send('PRIVMSG ' + chan + ' :Please include a ship name (!fit Brutix for example) \r\n')
                 #Send the asked for ship fit
                 else:
                     for line in lines:
@@ -87,3 +91,7 @@ while 1:
                             irc.send('PRIVMSG ' + chan + ' : \r\n')
                         else:
                             irc.send('PRIVMSG ' + chan + ' :%s\r\n' % line)
+
+            if command[0] == ':!help':
+                irc.send('PRIVMSG ' + chan + ' :To use fit bot, type !fit followed by a ship name.\r\n')
+                irc.send('PRIVMSG ' + chan + ' :Example: !fit Brutix\r\n')

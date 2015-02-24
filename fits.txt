@@ -1084,3 +1084,291 @@ Large Anti-Explosive Pump I
 
 Hammerhead II x5
 Hobgoblin II x5
+
+[Abaddon, Armor Fleet]
+
+Heat Sink II
+Heat Sink II
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+
+Faint Warp Disruptor I
+Large Micro Jump Drive
+F-90 Positional Sensor Subroutines, Scan Resolution Script
+Optical Tracking Computer I, Optimal Range Script
+
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+Mega Pulse Laser II, Scorch L
+
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Hammerhead II x5
+Hobgoblin II x5
+
+[Apocalypse, Armor Fleet]
+
+Heat Sink II
+Heat Sink II
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+
+Large Micro Jump Drive
+Faint Warp Disruptor I
+F-90 Positional Sensor Subroutines, Scan Resolution Script
+F-90 Positional Sensor Subroutines, Scan Resolution Script
+
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+Mega Pulse Laser II, Imperial Navy Multifrequency L
+
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Hammerhead II x5
+Hobgoblin II x5
+
+[Armageddon, Neuts 'n Drones]
+
+Damage Control II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+
+Large Micro Jump Drive
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 800
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 800
+Warp Disruptor II
+
+Heavy Energy Neutralizer II
+Heavy Energy Neutralizer II
+Heavy Energy Neutralizer II
+Heavy Energy Neutralizer II
+Medium Energy Neutralizer II
+Medium Energy Neutralizer II
+Medium Energy Neutralizer II
+
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Garde II x5
+Bouncer II x5
+Hobgoblin II x5
+Hammerhead II x5
+Warrior II x5
+Acolyte II x5
+
+[Raven, Pee Vee Pee]
+
+Ballistic Control System II
+Ballistic Control System II
+Co-Processor II
+Co-Processor II
+Damage Control II
+
+Large Micro Jump Drive
+X-Large Ancillary Shield Booster, Navy Cap Booster 400
+X-Large Ancillary Shield Booster, Navy Cap Booster 400
+Faint Warp Disruptor I
+Adaptive Invulnerability Field II
+Adaptive Invulnerability Field II
+Phased Weapon Navigation Array Generation Extron
+
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+Torpedo Launcher II, Caldari Navy Scourge Torpedo
+[Empty High slot]
+
+Large Anti-EM Screen Reinforcer I
+Large Anti-EM Screen Reinforcer I
+Large Anti-Thermal Screen Reinforcer I
+
+
+Hammerhead II x5
+Hobgoblin II x5
+
+[Rokh, Can't Stop Won't Stop]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Co-Processor II
+Damage Control II
+
+Large Micro Jump Drive
+Adaptive Invulnerability Field II
+Adaptive Invulnerability Field II
+Warp Scrambler II
+X-Large Ancillary Shield Booster, Navy Cap Booster 400
+X-Large Ancillary Shield Booster, Navy Cap Booster 400
+
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+Neutron Blaster Cannon II, Null L
+
+Large Anti-EM Screen Reinforcer I
+Large Anti-EM Screen Reinforcer I
+Large Anti-Thermal Screen Reinforcer I
+
+
+Hammerhead II x5
+
+[Scorpion, Armor Fleet]
+
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+
+BZ-5 Neutralizing Spatial Destabilizer ECM
+Enfeebling Phase Inversion ECM I
+'Hypnos' Ion Field ECM I
+'Umbra' White Noise ECM
+Large Micro Jump Drive
+Warp Disruptor II
+Phased Weapon Navigation Array Generation Extron
+Phased Weapon Navigation Array Generation Extron
+
+Rapid Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Rapid Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Rapid Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Rapid Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Energy Neutralizer II
+
+Large Anti-Explosive Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Hammerhead II x5
+Hobgoblin II x5
+
+[Dominix, Neuts and Drones]
+
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+
+Large Micro Jump Drive
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 800
+Prototype 100MN Microwarpdrive I
+F-90 Positional Sensor Subroutines, Scan Resolution Script
+Tracking Computer II, Tracking Speed Script
+
+Heavy Energy Neutralizer II
+Heavy Energy Neutralizer II
+Medium Energy Neutralizer II
+Medium Energy Neutralizer II
+Medium Energy Neutralizer II
+Medium Energy Neutralizer II
+
+Large Anti-Explosive Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Garde II x5
+Bouncer II x5
+
+[Hyperion, BRAWLINGS]
+
+Imperial Navy Large Armor Repairer
+Imperial Navy Large Armor Repairer
+Imperial Navy Large Armor Repairer
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+Pseudoelectron Containment Field I
+Magnetic Field Stabilizer II
+
+Large Micro Jump Drive
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 800
+Heavy Electrochemical Capacitor Booster I, Navy Cap Booster 800
+Faint Epsilon Warp Scrambler I
+Fleeting Propulsion Inhibitor I
+
+Ion Blaster Cannon II, Null L
+Ion Blaster Cannon II, Null L
+Ion Blaster Cannon II, Null L
+Ion Blaster Cannon II, Null L
+Ion Blaster Cannon II, Null L
+Ion Blaster Cannon II, Null L
+Medium Nosferatu II
+
+Large Anti-Explosive Pump I
+Large Auxiliary Nano Pump I
+Large Auxiliary Nano Pump I
+
+
+Hammerhead II x5
+Hobgoblin II x5
+
+[Megathron, Armor Fleet]
+
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Magnetic Field Stabilizer II
+Damage Control II
+Energized Adaptive Nano Membrane II
+Energized Adaptive Nano Membrane II
+1600mm Reinforced Steel Plates II
+1600mm Reinforced Steel Plates II
+
+Warp Scrambler II
+Stasis Webifier II
+Heavy Capacitor Booster II, Navy Cap Booster 800
+Prototype 100MN Microwarpdrive I
+
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+Neutron Blaster Cannon II, Federation Navy Antimatter Charge L
+
+Large Anti-Explosive Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Hammerhead II x5
+Hobgoblin II x5
